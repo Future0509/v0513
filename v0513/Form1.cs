@@ -21,6 +21,7 @@ namespace v0513
         {
             int a = 8;
             MessageBox.Show(""+10/a);
+            button1 Visible = false;
         }
     }
 }
